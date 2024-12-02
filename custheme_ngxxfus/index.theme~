@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=ngxxfus
+Type=X-GNOME-Metatheme
+Comment=crux with blueeee\n
+
+[X-GNOME-Metatheme]
+GtkTheme=Slider
+MetacityTheme=Crux
+IconTheme=System
+GtkColorScheme=fg_color:#000000000000,bg_color:#f851faa1ffff,text_color:#1a1a1a1a1a1a,base_color:#ffffffffffff,selected_fg_color:#ffffffffffff,selected_bg_color:#8686b121d9d9,tooltip_fg_color:#000000000000,tooltip_bg_color:#e7e7f1edfdfd
+CursorTheme=dmz-aa
+CursorSize=24
+NotificationTheme=slider
+BackgroundImage=/home/buet/Background/background_calender.jpg
