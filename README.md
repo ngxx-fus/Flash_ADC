@@ -73,8 +73,12 @@ W/L ratio, W for all CMOS (M1->M8):
 | L | W (nMOS) | W (pMOS) |
 |:-:|:-:|:-:|
 | 280nm | 300nm |  600nm |
+### Schematic
+![alt text](./imgs/image10.png)
 ### Simulation Schematic Circuit
+![alt text](./imgs/image11.png)
 ### Waveform:
+![alt text](./imgs/image12.png)
 
 
 ## Encoder 7->1
@@ -82,5 +86,17 @@ W/L ratio, W for all CMOS (M1->M8):
 | L | W (nMOS) | W (pMOS) |
 |:-:|:-:|:-:|
 | 280nm | 300nm |  600nm |
+### Schematic
+![alt text](./imgs/image13.png)
 ### Simulation Schematic Circuit
+![alt text](./imgs/image14.png)
 ### Waveform:
+![alt text](./imgs/image15.png)
+
+## Flash ADC 3bit
+### Schematic
+![alt text](./imgs/image16.png)
+### Simulation Schematic Circuit
+![alt text](./imgs/image17.png)
+### Waveform:
+![alt text](./imgs/image18.png)
